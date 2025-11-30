@@ -49,6 +49,4 @@ These instructions will help you set up and run a copy of the project on your lo
 
 ## ✍️ Author
 
-* **[AREESHA MALIK]**e
-
-The key files in t
+* **[AREESHA MALIK]**
